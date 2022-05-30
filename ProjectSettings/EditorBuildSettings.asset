@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Flow Poster/Scenes/Flow_Poster_01.unity
     guid: 4e8259ebac3893a44ac607f1b2bd7087
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 839e301fff80e5f408512717c0ce1595,
+      type: 2}
